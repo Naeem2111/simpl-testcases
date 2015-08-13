@@ -1,0 +1,2 @@
+String: "hello\n\"\t\""
+testscanner: Line 2:8: Illegal escape code '\v' in string

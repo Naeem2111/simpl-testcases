@@ -1,0 +1,4 @@
+Identifier: 'hello'
+'*'
+Identifier: '_hello_nardus'
+testscanner: Line 2:14: Illegal_character '!' (ASCII #(33))

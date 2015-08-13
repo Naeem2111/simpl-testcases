@@ -1,0 +1,4 @@
+Number: 1548789
+Identifier: 'abba'
+Identifier: 'abba1548789'
+testscanner: Line 4:2: Illegal character 'â' (ASCII #-30)
