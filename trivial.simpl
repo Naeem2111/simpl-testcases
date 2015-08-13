@@ -1,0 +1,6 @@
+(* Trivial program from rw244-notes *)
+
+program trivial
+begin
+	chill
+end
