@@ -15,5 +15,5 @@ Ah yes. Welkommee.
 
 ### Standard
 
-File Name: <github_username>-<test_case_number>.simpl  example: alexisvincent-1.simpl
+File Name: github_username-test_case_number.simpl  example: alexisvincent-1.simpl
 File Contents: LOLOLOL
